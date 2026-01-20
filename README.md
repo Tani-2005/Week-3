@@ -49,10 +49,15 @@ This project introduces the fundamentals of data analysis and demonstrates how P
 
 Week-3/
 ├── sales_analysis.py
+
 ├── sales_data.csv
+
 ├── analysis_report.md
+
 ├── output.md
+
 ├── requirements.txt
+
 
 ## File Descriptions
 
