@@ -48,6 +48,7 @@ This project introduces the fundamentals of data analysis and demonstrates how P
    python sales_analysis.py
 
 Week-3/
+
 ├── sales_analysis.py
 
 ├── sales_data.csv
@@ -118,3 +119,8 @@ requirements.txt – List of required libraries
 - Extracting meaningful insights from raw data
 
 - Structuring and documenting data analysis projects
+
+
+## Conclusion
+
+This project helped build a strong foundation in data analysis using Python. It improved my understanding of working with datasets, using pandas effectively, and presenting analysis results clearly and professionally.
