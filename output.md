@@ -1,4 +1,8 @@
-FIRST 5 ROWS OF DATASET:
+# Sales Analysis Output
+
+## First 5 Rows of Dataset
+
+```text
          Date     Product  ...  Region  Total_Sales
 0  2024-01-01       Phone  ...    East       261100
 1  2024-01-02  Headphones  ...   North        61624
@@ -8,7 +12,6 @@ FIRST 5 ROWS OF DATASET:
 
 [5 rows x 7 columns]
 
-DATASET INFORMATION:
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 100 entries, 0 to 99
 Data columns (total 7 columns):
@@ -25,7 +28,7 @@ dtypes: int64(3), object(4)
 memory usage: 5.6+ KB
 None
 
-MISSING VALUES:
+
 Date           0
 Product        0
 Quantity       0
@@ -35,8 +38,6 @@ Region         0
 Total_Sales    0
 dtype: int64
 
-SALES ANALYSIS REPORT
-----------------------------
 Total Sales: ₹12,365,048.00
 Average Sales: ₹123,650.48
 Highest Single Sale: ₹373,932.00
